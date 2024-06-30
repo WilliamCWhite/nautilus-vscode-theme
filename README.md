@@ -1,16 +1,9 @@
-# theme README
+# Nautilus Theme
+A VSCode theme based on the GMK Nautilus Keycaps
 
-## Working with Markdown
+## Installation
+The extension isn't currently published to the VSCode extension marketplace, so you need to install it manually.
+Download the nautilus-0.1.vsix file and simply copy it into your /.vscode/extensions folder (on Windows, .vscode is usually found in your User folder).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Creation
+I used [Theme Studio for VSCode](https://themes.vscode.one/) to make this theme. If you want to edit it, I recommend using Theme Studio, since its a really robust and easy-to-use tool. You can fork it on Theme Studio [here](https://themes.vscode.one/theme/vaderslayer72/2CekdbmJ) and make whatever changes you want. 

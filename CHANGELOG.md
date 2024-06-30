@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "theme" extension will be documented in this file.
+All notable changes to the theme will be documented here.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [Unreleased]
+## [Planned]
+- Create a light mode theme
+- Upload to Extension Marketplace
 
-- Initial release
+## [0.1] - 2024-06-30
+- Created complete primary dark mode theme
